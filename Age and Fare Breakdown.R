@@ -1,0 +1,36 @@
+rm(list = ls()) #Clear Environment
+gc()
+cat("\f")
+
+##You Need GGPLOT2 to View Analysis
+install.packages("ggplot2")
+library(ggplot2)
+library(readr)
+
+#Dataset needed for this analysis
+train_clean <- read_csv("Downloads/train_clean.csv")
+View(train_clean)
+
+#Average Age of a passenger
+Average_Age <-sum(train_clean$Age)/nrow(train_clean)
+Average_Age
+
+#Average Age of a passenger that survived
+Average_age_survivor <- mean(train_clean$Age[train_clean$Survived == 1], na.rm = TRUE)
+Average_age_survivor
+
+#Average Age of a passenger that did not survive
+Average_age_deceased <- mean(train_clean$Age[train_clean$Survived == 0], na.rm = TRUE)
+Average_age_deceased
+
+
+#Average Cost of a ticket to board the Titanic
+Average_ticket <- sum(train_clean$Fare)/nrow(train_clean)
+Average_ticket
+
+##See what the average Fare was for Survivors vs Non Survivors
+Average_fare_survivor <- mean(train_clean$Fare[train_clean$Survived == 1], na.rm = TRUE)
+Average_fare_survivor
+Average_fare_deceased <- mean(train_clean$Fare[train_clean$Survived == 0], na.rm = TRUE)
+Average_fare_deceased
+#From this we can determine that the more money you paid the more likely you were to survive
