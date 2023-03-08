@@ -1,4 +1,4 @@
-# Fianl-Project
+# Final-Project
 ### By: Lucas Ahern
 
 #### Our contractor the U.S. Coast Gaurd has request that we analyize survivial data in the one of the most historic Boat sinking's of all time.
