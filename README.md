@@ -40,9 +40,12 @@ I will try and come to a conclusion on what would make you most likely to surviv
 This was a relatively large data set with 891 Rows and 15 total columns. Most people were in between the ages of 20 and 40.   
 ![image](https://user-images.githubusercontent.com/125223791/223890075-352009cc-8b92-47f3-b3d3-2615fe97eff5.png)
 
+The average age of all passengers was 29.45yrs old.
+
 The majority of the passengers were Male.  64% were Male and the remaining 36% were female.
 
 Most Passengers were in 3rd Class with the distribution being shown below:
+
 ![Screenshot 2023-03-08 at 8 20 16 PM](https://user-images.githubusercontent.com/125223791/223890563-650ca2db-b2e7-4a2d-bf1c-6aad4825d4cb.png)
 
 The average Fare of passengers who survived was higher than that of those who did not survive.  The average Fare of a passenger who survived was $48.40, while someone who did not survive on average paid $22.12.
