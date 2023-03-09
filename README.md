@@ -54,9 +54,24 @@ Some variables were excluded in this dataset such as Cabin.  Cabin was exclused 
 
 ## _Data Analytics_
 
+#### The first way our company looked at the data was through a 50,000 foot view of the data.  What are we working with?
+![image](https://user-images.githubusercontent.com/125223791/223897238-779b604c-bdf0-4f16-a164-3c0b6a84a899.png)
 
+This show us that there is a higher distribution of Males than Females.  
+
+After finding the distribution of each sex.  I went to try and find the probablity of each sex surviving the titanic.  What i found was that females had a 74.2% chance of survive while men had an 18.89% chance of survival.  This lead me to believe that being a female had a very strong correlation with survival.  
+
+We then tried to analyze if age had anything to do with survival. We decided a scatter plot would help us show if there were any trends in the data.
+![image](https://user-images.githubusercontent.com/125223791/223898065-da010c6e-38f3-4916-93fe-cbc705db3ad8.png)
+
+![image](https://user-images.githubusercontent.com/125223791/223898231-fcf87a2d-3661-4b8b-b7cb-9ee8292e38df.png)
+
+![image](https://user-images.githubusercontent.com/125223791/223898276-8edd01ff-1697-42b9-afdb-b0d25906934b.png)
+
+These 3 charts show that age was not as large a factor in survival as children survived at 53.85% abd adults survived at 36.05.   
 
 ## _Conclusion_
+
 
 
 ## _DevOps_
