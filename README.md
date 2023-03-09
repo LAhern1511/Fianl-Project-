@@ -92,7 +92,11 @@ This show us that the higher class that you were the more likely you were to sur
 ![image](https://user-images.githubusercontent.com/125223791/223901762-3a39aa84-2659-46ae-b511-eda9802bd1ac.png)
 
 
-This led us to belive that the highest probability 
+This led us to belive that the highest probability of survival was paying more money therefore you are in 1st class and being female.  This is demonstrated in this graph below:
+
+![image](https://user-images.githubusercontent.com/125223791/223902362-38498691-cb35-41b3-b7c5-20bb0688327a.png)
+
+In this you can see that most of the woman who died paid less than $25.00.  While Men who paid less than $25.00 had the absolute worst chance of surviving the Titanic.
 
 
 ## _Conclusion_
