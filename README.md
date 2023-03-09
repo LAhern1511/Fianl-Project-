@@ -1,7 +1,7 @@
 # Final-Project
 ### By: Lucas Ahern
 
-## _Introduction_ / Devops
+## _Introduction_
 
 #### Our contractor the U.S. Coast Gaurd has request that we analyize survivial data in the one of the most historic ship wrecks of all time.
 The reason our company was tasked with this analysis was to see who was most likely to survive the tragic accident and see if there were trends in the data.  Our company is tasked with finding who was most likely to survive the tragic boat accident and who was least likely.  
