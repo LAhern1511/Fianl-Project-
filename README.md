@@ -54,3 +54,49 @@ Some variables were excluded in this dataset such as Cabin.  Cabin was exclused 
 
 ## _Data Analytics_
 
+
+
+## _Conclusion_
+
+
+## _DevOps_
+
+#### Github is great as it allows you to show people what you can create with your code and share it with people.
+
+### Pros of Github on Solo Projects:
+
+####  GitHub allows you to see old files that you had previously worked on.  This allows you to go back and work on the old files if need be.  
+  
+   GitHub can help with storage as well. Not all the information has to be stored on your harddrive which can take up a lot of space.  
+   This is especially   useful for small projects.  
+   
+   Share your work with others
+  
+
+### Cons of Github on Solo Projects:
+
+#### GitHub may not be the best for smaller projects as it adds another level of complexity to the project.
+
+   There is a learning curve to understanding GitHub
+
+ 
+### Pros of Github on Group Projects:
+
+#### GitHub allows you to work with many different people at the same time without stepping on eachothers toes so to speak.  You can work on your files while they work on theirs.  You do not have to be working on the same document.
+
+   Ability to share your work with more people
+   
+   Especially helpful with larger project with a lot of hands working on different things.
+   
+   Storage
+   
+
+### Cons of Github on Group Projects:
+
+#### Learning Curve
+
+   Security could be a potential issue if you are not careful with security settings
+   
+   Github can cost money if a company is using it.
+   
+   
