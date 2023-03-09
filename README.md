@@ -101,7 +101,13 @@ In this you can see that most of the woman who died paid less than $25.00.  Whil
 
 ## _Conclusion_
 
+#### We have come to the conclusion that women who paid more had the highest probability of surviving the Titanic.  The biggest indicator of survival being gender.  The percentages were too far apart to think other wise.  With 74%+ of females surviving and 18%+ of males surviving there was a very clear trend that emerged in the data.  The less you paid the less likely you were to survive.
 
+Our company tried to weigh all variables equally and find trends in the data by showing charts and graphs.  Even finding percentages of given scenarios. We found this was the best way to find trends in the data.  There was no change that was noticeable through age.  There was an increase in probability of surviving if you were a child but we found that this was because so many females survived.  Young girls survived at 69.1% which is in line with the overall female number just slightly lower.  
+
+The limitation of my findings is thatI may have put too much stock into gender being the key factor in survival probability.  I would try to find a coelation variable and test this but I was unable to since female is a categorical variable and not a numerical variable.  I am limited by the dataset there could be more datapoints and I could have seen how close in proximity were peoples cabins to life boats and where they were at the time of the accident.  This data was not collected so I could only use the information that I was given in this dataset. 
+
+In the future I would try and find a more complete dataset of cabins and then measure the proximity to life boats and see if that had anything to do with who survived. 
 
 ## _DevOps_
 
