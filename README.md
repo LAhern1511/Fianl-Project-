@@ -59,16 +59,41 @@ Some variables were excluded in this dataset such as Cabin.  Cabin was exclused 
 
 This show us that there is a higher distribution of Males than Females.  
 
-After finding the distribution of each sex.  I went to try and find the probablity of each sex surviving the titanic.  What i found was that females had a 74.2% chance of survive while men had an 18.89% chance of survival.  This lead me to believe that being a female had a very strong correlation with survival.  
+After finding the distribution of each sex.  We went to try and find the probablity of each sex surviving the titanic.  What we found was that females had a 74.2% chance of survive while men had an 18.89% chance of survival.  This lead us to believe that being a female had a very strong correlation with survival.  
 
 We then tried to analyze if age had anything to do with survival. We decided a scatter plot would help us show if there were any trends in the data.
+
 ![image](https://user-images.githubusercontent.com/125223791/223898065-da010c6e-38f3-4916-93fe-cbc705db3ad8.png)
 
 ![image](https://user-images.githubusercontent.com/125223791/223898231-fcf87a2d-3661-4b8b-b7cb-9ee8292e38df.png)
 
 ![image](https://user-images.githubusercontent.com/125223791/223898276-8edd01ff-1697-42b9-afdb-b0d25906934b.png)
 
-These 3 charts show that age was not as large a factor in survival as children survived at 53.85% abd adults survived at 36.05.   
+These 3 charts show that age was not as large a factor in survival as gender was. Overall children survived at 53.85% and adults survived at 36.05.  In this you can see that age had no factor on men or woman too much.  What we can see from the data so far is that gender was the best factor to show your probability of survival.
+
+![image](https://user-images.githubusercontent.com/125223791/223899229-59b6d43a-31fd-4ed0-a1da-1ee83516e025.png)
+
+![image](https://user-images.githubusercontent.com/125223791/223901272-5bda804c-b31e-476f-ac1d-57140611f1a0.png)
+
+
+The next variable we analyzed was Fare.  We wanted to see if the more a passenger paid the more likely they were to survive.  
+
+![image](https://user-images.githubusercontent.com/125223791/223899681-a1b1ac9b-7a1d-496f-b9e2-f3acdb2095c1.png)
+
+This did tend to be true based off this chart that if you paid more money for your fare you had a higher probability of surviving.  This may have been due to the fact that these passengers were in a higher class.  This led our coompany to analyze cwhat percent chance one had at survivng dependent on class.
+
+![image](https://user-images.githubusercontent.com/125223791/223900354-e1d29b7f-8b36-4f2a-a016-393f82d98aa6.png)
+
+![image](https://user-images.githubusercontent.com/125223791/223900551-e0006fd9-2b0b-4609-90c1-05dd43e9f5b0.png)
+
+
+This show us that the higher class that you were the more likely you were to survive the titanic.  This also lines up with the data collected on Fare survival rates.  The average 
+
+![image](https://user-images.githubusercontent.com/125223791/223901762-3a39aa84-2659-46ae-b511-eda9802bd1ac.png)
+
+
+This led us to belive that the highest probability 
+
 
 ## _Conclusion_
 
