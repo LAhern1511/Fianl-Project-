@@ -1,7 +1,7 @@
 # Final-Project
 ### By: Lucas Ahern
 
-##Introduction
+## _Introduction_
 
 #### Our contractor the U.S. Coast Gaurd has request that we analyize survivial data in the one of the most historic ship wrecks of all time.
 The reason our company was tasked with this analysis was to see who was most likely to survive the tragic accident and see if there were trends in the data.  Our company is tasked with finding who was most likely to survive the tragic boat accident and who was least likely.  
@@ -32,7 +32,7 @@ install.packages("ggplot2")
 devtools::install_github("tidyverse/ggplot2")
 ```
 
-## Data Summary
+## _Data Summary_
 
 #### In this dataset we will break down survival rates based on many different factors such as Sex, Class, Age, and the price paid for a ticket.
 I will try and come to a conclusion on what would make you most likely to survive as well as least likely to survive the sinking of the titanic.
@@ -52,4 +52,5 @@ The average Fare of passengers who survived was higher than that of those who di
 
 Some variables were excluded in this dataset such as Cabin.  Cabin was exclused because there were too many gaps in the data to perform any meaningful analysis.  
 
+## _Data Analytics_
 
